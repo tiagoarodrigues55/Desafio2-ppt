@@ -1,0 +1,27 @@
+{
+  "name": "Desafio2-ppt",
+  "version": "1.0.0",
+  "description": "Gerar ppts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoarodrigues55/Desafio2-ppt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoarodrigues55/Desafio2-ppt/issues"
+  },
+  "homepage": "https://github.com/tiagoarodrigues55/Desafio2-ppt#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "pptxgenjs": "^3.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
